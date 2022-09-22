@@ -13,4 +13,5 @@ void main()
         }
     }
     printf("終了");
+    printf("終了");
 }
